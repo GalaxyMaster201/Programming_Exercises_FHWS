@@ -1,9 +1,7 @@
-package de.fhws.tests_14.exercise_2;
+package de.fhws.programming_exercises.lesson_14.src.exercise_2;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
-
-import de.fhws.programming_exercises.lesson_14.src.exercise_2.MyPoint;
 
 public class MyPointTest{
     MyPoint p = new MyPoint();
@@ -13,7 +11,7 @@ public class MyPointTest{
         try{
             p.movePoint(1,1);
         }catch (RuntimeException e){
-            fail("Unexpected Runtime Exception");;
+            fail("Unexpected Runtime Exception");
         }
     }
 

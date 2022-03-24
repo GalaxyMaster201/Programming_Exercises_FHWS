@@ -1,6 +1,5 @@
-package de.fhws.tests_14.exercise_4;
+package de.fhws.programming_exercises.lesson_14.src.exercise_4;
 
-import de.fhws.programming_exercises.lesson_14.src.exercise_4.Line;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -72,6 +71,15 @@ class LineTest{
     @Test
     void testDoesIntersectInner(){
         ln2 = new Line(7,8);
+        assertTrue(ln1.doesIntersect(ln2));
+    }
+
+    /**
+     * Line 1 in line 2
+     */
+    @Test
+    void testDoesIntersectOuter(){
+        ln2 = new Line(1,15);
         assertTrue(ln1.doesIntersect(ln2));
     }
 

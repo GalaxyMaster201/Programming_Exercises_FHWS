@@ -1,4 +1,4 @@
-package de.fhws.tests_14.exercise_1;
+package de.fhws.programming_exercises.lesson_14.src.exercise_1;
 
 import org.junit.jupiter.api.Test;
 

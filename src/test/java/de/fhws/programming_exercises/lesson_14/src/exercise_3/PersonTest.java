@@ -1,4 +1,4 @@
-package de.fhws.tests_14.exercise_3;
+package de.fhws.programming_exercises.lesson_14.src.exercise_3;
 
 import de.fhws.programming_exercises.lesson_14.src.exercise_3.Person;
 import org.junit.jupiter.api.Test;
