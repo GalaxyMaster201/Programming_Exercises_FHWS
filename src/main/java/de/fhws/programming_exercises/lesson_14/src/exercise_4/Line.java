@@ -1,8 +1,8 @@
 package de.fhws.programming_exercises.lesson_14.src.exercise_4;
 
 public class Line{
-    private int start;
-    private int end;
+    private final int start;
+    private final int end;
 
     public Line(int start, int end){
         if (start < 0 || end < 0){
@@ -44,17 +44,10 @@ public class Line{
     public boolean doesIntersect(Line ln2){
         int start2 = ln2.getStart();
         int end2 = ln2.getEnd();
-
-        // Line 2 is to the right
-        if (start2 >= end){
+        // Line 2 is to the right or left of Line 1
+        if (start2 >= end || end2 <= start){
             return false;
         }
-
-        // Line 2 is to the left
-        if (end2 <= start){
-            return false;
-        }
-
         return true;
     }
 }
