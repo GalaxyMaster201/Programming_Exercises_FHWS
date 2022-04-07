@@ -12,14 +12,15 @@ public class MultipleChoiceQuestion extends Question{
 
     /**
      * Creates a list of all possible answers for the given question.
+     *
      * @return answer String block
      */
     @Override
     protected String inputField(){
         StringBuilder output = new StringBuilder();
 
-        for (int i = 0; i < answers.length; i++){
-            output.append((char) (i+65)).append(": ");      // add Letters to different answers
+        for (int i = 0, c = 'A'; i < answers.length; i++, c++){
+            output.append((char)c).append(": ");      // add letters to different answers
             output.append(answers[i]).append("\n");
         }
 

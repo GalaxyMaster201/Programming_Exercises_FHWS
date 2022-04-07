@@ -10,20 +10,20 @@ public class DoubleTest{
 
     @Test
     public void testZero(){
-        assertEquals(0,berechneKugelvolumen(0));
+        assertEquals(0,berechneKugelvolumen(0),0.0001);
     }
     @Test
     public void testOne(){
-        assertEquals(4.1887902047863905,berechneKugelvolumen(1));
+        assertEquals(4.1887902047863905,berechneKugelvolumen(1),0.0001);
     }
     @Test
     public void testMinusOne(){
         // Negativer Radius sowie das negative Volumen existieren nicht!
-        assertEquals(-4.1887902047863905,berechneKugelvolumen(-1));
+        assertEquals(-4.1887902047863905,berechneKugelvolumen(-1),0.0001);
     }
     @Test
     public void testFive(){
-        assertEquals(523.5987755982989,berechneKugelvolumen(5));
+        assertEquals(523.5987755982989,berechneKugelvolumen(5),0.0001);
     }
 
 }

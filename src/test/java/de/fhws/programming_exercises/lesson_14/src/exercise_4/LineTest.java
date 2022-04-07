@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class LineTest{
-    Line ln1 = new Line(5,10);
+    final Line ln1 = new Line(5,10);
     Line ln2;
 
     /**
