@@ -27,6 +27,11 @@ public class Dame extends AbstractFigur implements Laeufer, Turm{
         }
     }
 
+    /**
+     * Die Dame kann sich horizontal, vertikal und diagonal bewegen.
+     * Deswegen erbt die dame die erlaubten Felder vom Läufer und Turm.
+     * @return kombiniertes Brett mit erlaubten Feldern
+     */
     @Override
     public Brett gibErlaubteFelder(){
         Brett brettLaeufer = laeufer.gibErlaubteFelder();

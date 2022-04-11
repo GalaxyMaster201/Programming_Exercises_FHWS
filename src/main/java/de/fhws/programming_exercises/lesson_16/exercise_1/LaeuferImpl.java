@@ -7,6 +7,11 @@ public class LaeuferImpl extends AbstractFigur implements Laeufer
     super(x, y);
   }
 
+  /**
+   * Der läufer kann sich diagonal bewegen.
+   * Die erlaubten Felder werden mit der formel "y_neu = y +- (x-x_neu)" berechnet
+   * @return alle Felder, auf welche sich der Läufer aus der jetzigen Position bewegen kann.
+   */
   public Brett gibErlaubteFelder()
   {
     Brett brett = new Brett();

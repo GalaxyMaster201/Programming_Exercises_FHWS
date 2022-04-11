@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f74bd28-503e-4711-a2c7-0f62e4204998" name="Changes" comment="lesson 15 done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_14/src/exercise_1/Kugelvolumen.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPointTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPoint.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+        <option name="vmOptionsForImporter" value="-Xmx512m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26eaVfLPYl1stxcdQlxtSAlVmHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_14/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main\java\de\fhws" />
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="de.fhws.programming_exercises.lesson_15.src.exercise_1.Employee" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.fhws.programming_exercises.lesson_15.src.exercise_2" />
+      <recent name="de.fhws.programming_exercises.lesson_15.src.exercise_1" />
+      <recent name="de.fhws.tests_14" />
+      <recent name="de.fhws.tests_14.exercise_4" />
+      <recent name="de.fhws.tests_14.exercise_3" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open Programmieren_Maven" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_16.exercise_4.Main" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_16.exercise_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_15.src.exercise_3.Quiz" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_15.src.exercise_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_14.src.exercise_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.fhws.programming_exercises.lesson_14.src.exercise_4" />
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_14.src.exercise_4.LineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_15.src.exercise_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.fhws.programming_exercises.lesson_15.src.exercise_2" />
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_15.src.exercise_2.PersonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_15.src.exercise_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.fhws.programming_exercises.lesson_15.src.exercise_2" />
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_15.src.exercise_2.ProfessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Quiz" />
+        <item itemvalue="JUnit.LineTest" />
+        <item itemvalue="JUnit.ProfessorTest" />
+        <item itemvalue="JUnit.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f74bd28-503e-4711-a2c7-0f62e4204998" name="Changes" comment="" />
+      <created>1647786532983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647786532983</updated>
+      <workItem from="1647786534531" duration="15668000" />
+      <workItem from="1647867594679" duration="171000" />
+      <workItem from="1647973184278" duration="298000" />
+      <workItem from="1648113472754" duration="36000" />
+      <workItem from="1648113955769" duration="1965000" />
+      <workItem from="1648119025983" duration="1110000" />
+      <workItem from="1648378162253" duration="12564000" />
+      <workItem from="1648659650298" duration="13340000" />
+      <workItem from="1648716415657" duration="1022000" />
+      <workItem from="1648720180255" duration="2393000" />
+      <workItem from="1649065376177" duration="303000" />
+      <workItem from="1649065809436" duration="1276000" />
+      <workItem from="1649320199812" duration="617000" />
+      <workItem from="1649326348127" duration="1470000" />
+    </task>
+    <task id="LOCAL-00001" summary="Converted to Maven">
+      <created>1647803278591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647803278591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Converted to Maven">
+      <created>1648119370084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648119370084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Converted to Maven">
+      <created>1648120159491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648120159491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 15 done">
+      <created>1648674948948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648674948948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 15 done">
+      <created>1649327216328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649327216328</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Programming_Exercises_FHWS/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
+    <MESSAGE value="Converted to Maven" />
+    <MESSAGE value="lesson 15 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 15 done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

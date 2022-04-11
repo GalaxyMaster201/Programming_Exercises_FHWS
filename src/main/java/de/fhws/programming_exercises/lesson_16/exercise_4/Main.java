@@ -8,8 +8,8 @@ public class Main{
         Cyborg cyborg = new Cyborg();
 
         CarDanger danger = CarDanger.DANGER_FRONT;
-        System.out.printf("Human reaction: %s \n",human.choose(danger).reaction);
-        System.out.printf("Robot reaction: %s \n",robot.choose(danger).reaction);
-        System.out.printf("Cyborg reaction: %s \n",cyborg.choose(danger).reaction);
+        System.out.printf("Human reaction: %s \n", human.choose(danger).reaction);
+        System.out.printf("Robot reaction: %s \n", robot.choose(danger).reaction);
+        System.out.printf("Cyborg reaction: %s \n", cyborg.choose(danger).reaction);
     }
 }

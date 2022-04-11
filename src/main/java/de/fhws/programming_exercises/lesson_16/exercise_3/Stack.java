@@ -14,6 +14,11 @@ public final class Stack{
         aList.add(number);
     }
 
+    /**
+     * Retrieves the last element in the stack and removes it.
+     * @return the popped value
+     * @throws IndexOutOfBoundsException when user tries to pop from an empty stack
+     */
     public int pop(){
         int last = aList.size()-1;
         if (last < 0){
