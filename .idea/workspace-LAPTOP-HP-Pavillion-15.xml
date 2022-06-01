@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09be3b26-db1a-44ba-8f13-8022f34e0274" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/BufferedFileCopier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/CustomBufferedFileCopier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/FileChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/FileCopier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/New Text Document_bc_copy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/New Text Document_cbc_copy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/New Text Document_uc_copy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/UnbufferedFileCopier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/file_example_MP3_1MG.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_3/file_example_MP4_640_3MG.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_4/OutputStreamDoubler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_4/input_document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_17/src/exercise_4/output_document_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/L18 ÜB1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/L18 ÜB2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/L18 ÜB3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/Lektion 18 - Character Streams, JUnit Tests II.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/ECNr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/InfNr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/MatrNr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/MatrNrFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/MatrNrs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/RandomMatNrGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_1/WInfNr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/TCPComm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/TCPMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/L19 ÜB1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/L19 ÜB2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/L19 ÜB3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/Lektion 19 - Generics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Guess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/TCPMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_17/src/exercise_1/ExceptionThrowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_17/src/exercise_2/FileCopierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/AbstractFigur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Brett.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Dame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Feld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Figur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Laeufer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/LaeuferImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/Turm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_1/TurmImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_2/BetterChangeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_2/ChangeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_2/Coin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_2/SimpleChangeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_3/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_3/StackVererbung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/AbstractBeing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/CarDanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/CarDangerReaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Cyborg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Driving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Robot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/other/SpaceInvaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/other/SpaceInvaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/other/uebungsaufgabe/Kaffeetasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/other/uebungsaufgabe/Kaffeetasse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/exercise_1/DameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/src/exercise_1/DameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/exercise_2/BetterChangeCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/src/exercise_2/BetterChangeCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/exercise_3/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/src/exercise_3/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/exercise_4/DrivingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_16/src/exercise_4/DrivingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/extra/CheckInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/extra/CheckInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_02/src/Aufgabe_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_8$1fehler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_8$1fehler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_03/src/Aufgabe_8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_04/src/Aufgabe_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_05/src/Aufgabe5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_06/src/Aufgabe6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_07/src/Aufgabe6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise5/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise5/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise5/Exercise5Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_08/src/Exercise5/Exercise5Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise1/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise1/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise1/Exercise1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise1/Exercise1Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise2/Exercise2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise2/Exercise2Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise2/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise2/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise3/Exercise3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise3/Exercise3Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise3/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_09/src/exercise3/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise1/Exercise1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise1/Exercise1Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise1/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise1/Room.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise2/Clock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise2/Clock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise2/Exercise2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise2/Exercise2Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/CarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/CarFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/Exercise3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_10/src/exercise3/Exercise3Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_1/Exercise1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_1/Exercise1Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_2/Exercise2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_2/Exercise2Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_2/TicTacToeTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_2/TicTacToeTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_3/Exercise3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_3/Exercise3Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_4/Ticker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_4/Ticker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_4/exercise4Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_4/exercise4Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_5/Exercise5Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_5/Exercise5Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_6/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_6/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_6/Exercise6Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_11/src/exercise_6/Exercise6Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/Exercise1Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/Exercise1Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/LottoSimulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/LottoSimulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_1/Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_2/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_2/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_2/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_12/src/exercise_3/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_1/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_1/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_2/Checkerboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_2/Checkerboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_13/src/exercise_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_1/Kugelvolumen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_1/Kugelvolumen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_3/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_3/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_3/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_3/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_4/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_14/src/exercise_4/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_1/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_1/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_1/TeamLeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_1/TeamLeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/MultipleChoiceQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/MultipleChoiceQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/Quiz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/Quiz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/TextQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_15/src/exercise_3/TextQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/AbstractFigur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Brett.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Dame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Feld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Figur.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Laeufer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/LaeuferImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/Turm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_1/TurmImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_2/BetterChangeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_2/ChangeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_2/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_2/SimpleChangeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_3/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_3/StackVererbung.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/AbstractBeing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/CarDanger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/CarDangerReaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Cyborg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Driving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Human$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Robot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/lesson_16/exercise_4/Robot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/Aufgabe1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/Aufgabe1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/Aufgabe7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/Aufgabe7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/SpaceInvaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/SpaceInvaders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Kaffeetasse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Kaffeetasse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Verwaltung.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/other/uebungsaufgabe/Verwaltung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/Anlage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/Anlage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/Rechner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/Rechner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/WeihnachtsaufgabeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/de/fhws/programming_exercises/weihnachtsaufgabe/src/WeihnachtsaufgabeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/de/fhws/programming_exercises/lesson_16/exercise_1/DameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/de/fhws/programming_exercises/lesson_16/exercise_2/BetterChangeCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/de/fhws/programming_exercises/lesson_16/exercise_3/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/de/fhws/programming_exercises/lesson_16/exercise_4/DrivingTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mcaba &lt;mcabadaj201@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_14/src/exercise_1/Kugelvolumen.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPoint.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Client.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Server.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/TCPMember.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/de/fhws/programming_exercises/lesson_14/src/exercise_2/MyPointTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+        <option name="vmOptionsForImporter" value="-Xmx512m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26eaVfLPYl1stxcdQlxtSAlVmHb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main\java\de\fhws\programming_exercises\lesson_19\src\exercise_1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main\java\de\fhws\programming_exercises\lesson_18\src\exercise_1" />
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main\java\de\fhws\programming_exercises\lesson_17\src\exercise_3" />
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main\java\de\fhws" />
+      <recent name="C:\Users\mcaba\OneDrive\FHWS\Programmieren_Maven\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="de.fhws.programming_exercises.lesson_15.src.exercise_1.Employee" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="de.fhws.programming_exercises.lesson_16.src.exercise_1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.fhws.programming_exercises.lesson_17.exercise_2" />
+      <recent name="de.fhws.programming_exercises.lesson_17.excercise_1" />
+      <recent name="de.fhws.programming_exercises.lesson_16.exercise_4" />
+      <recent name="de.fhws.programming_exercises.lesson_16.exercise_3" />
+      <recent name="de.fhws.programming_exercises.lesson_16.exercise_2" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open Programmieren_Maven" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.Main" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.ObjectClient" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.ObjectServer" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="de.fhws.programming_exercises.lesson_19.src.exercise_1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.Test" />
+      <module name="Programmieren_Maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.fhws.programming_exercises.lesson_19.src.exercise_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ObjectClient" />
+        <item itemvalue="Application.ObjectServer" />
+        <item itemvalue="Application.de.fhws.programming_exercises.lesson_19.src.exercise_1.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f74bd28-503e-4711-a2c7-0f62e4204998" name="Changes" comment="" />
+      <created>1647786532983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647786532983</updated>
+      <workItem from="1647786534531" duration="15668000" />
+      <workItem from="1647867594679" duration="171000" />
+      <workItem from="1647973184278" duration="298000" />
+      <workItem from="1648113472754" duration="36000" />
+      <workItem from="1648113955769" duration="1965000" />
+      <workItem from="1648119025983" duration="1110000" />
+      <workItem from="1648378162253" duration="12564000" />
+      <workItem from="1648659650298" duration="13340000" />
+      <workItem from="1648716415657" duration="1022000" />
+      <workItem from="1648720180255" duration="2393000" />
+      <workItem from="1649065376177" duration="303000" />
+      <workItem from="1649065809436" duration="1276000" />
+      <workItem from="1649320199812" duration="617000" />
+      <workItem from="1649326348127" duration="1470000" />
+      <workItem from="1649599004460" duration="20461000" />
+      <workItem from="1649668008905" duration="3267000" />
+      <workItem from="1649678535610" duration="101000" />
+      <workItem from="1650529422321" duration="7000" />
+      <workItem from="1650529465045" duration="2532000" />
+      <workItem from="1650534783088" duration="26000" />
+      <workItem from="1650657150887" duration="4530000" />
+      <workItem from="1650733473911" duration="8730000" />
+      <workItem from="1650976883098" duration="738000" />
+      <workItem from="1651332732092" duration="74000" />
+      <workItem from="1651332816882" duration="19530000" />
+      <workItem from="1651398678439" duration="30000" />
+      <workItem from="1651398720236" duration="1615000" />
+      <workItem from="1651407111630" duration="771000" />
+      <workItem from="1651660080937" duration="118000" />
+      <workItem from="1651660544220" duration="744000" />
+      <workItem from="1651688425200" duration="645000" />
+      <workItem from="1651774293724" duration="6471000" />
+      <workItem from="1652288452485" duration="5728000" />
+      <workItem from="1652294233685" duration="1289000" />
+      <workItem from="1652370462226" duration="2387000" />
+      <workItem from="1652372903079" duration="4704000" />
+      <workItem from="1652380283303" duration="4498000" />
+      <workItem from="1652384829108" duration="310000" />
+      <workItem from="1652465736258" duration="216000" />
+      <workItem from="1652466018657" duration="11468000" />
+      <workItem from="1652554413670" duration="5739000" />
+      <workItem from="1652606445522" duration="25000" />
+      <workItem from="1652615726325" duration="74000" />
+      <workItem from="1652616815711" duration="22000" />
+      <workItem from="1652616877036" duration="5543000" />
+      <workItem from="1652812282992" duration="5858000" />
+    </task>
+    <task id="LOCAL-00001" summary="Converted to Maven">
+      <created>1647803278591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647803278591</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Converted to Maven">
+      <created>1648119370084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648119370084</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Converted to Maven">
+      <created>1648120159491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648120159491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson 15 done">
+      <created>1648674948948</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648674948948</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 15 done">
+      <created>1649327216328</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649327216328</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson 16 Code done, needs Javadoc and Comments">
+      <created>1649621896778</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649621896778</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson 16 done">
+      <created>1649671005732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649671005732</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lesson 16 done">
+      <created>1649671396135</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649671396135</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Programming_Exercises_FHWS/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CODE_SMELLS_PROFILE" value="Project Default" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Converted to Maven" />
+    <MESSAGE value="lesson 15 done" />
+    <MESSAGE value="lesson 16 Code done, needs Javadoc and Comments" />
+    <MESSAGE value="lesson 16 done" />
+    <MESSAGE value="lesson 17 exercises 1,2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 17 exercises 1,2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_16/exercise_4/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Client.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Server.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_18/src/exercise_2/Server.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/ObjectServer.java</url>
+          <line>18</line>
+          <properties class="de.fhws.programming_exercises.lesson_19.src.exercise_1.ObjectServer" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/de/fhws/programming_exercises/lesson_19/src/exercise_1/ObjectClient.java</url>
+          <line>21</line>
+          <properties class="de.fhws.programming_exercises.lesson_19.src.exercise_1.ObjectClient" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

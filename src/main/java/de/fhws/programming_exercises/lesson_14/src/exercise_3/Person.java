@@ -1,9 +1,9 @@
 package de.fhws.programming_exercises.lesson_14.src.exercise_3;
 
 public class Person{
-    private String firstName;
-    private String lastName;
-    private String address;
+    private final String firstName;
+    private final String lastName;
+    private final String address;
 
 
     public Person(String firstName, String lastName, String street, String number, int PLZ, String place){

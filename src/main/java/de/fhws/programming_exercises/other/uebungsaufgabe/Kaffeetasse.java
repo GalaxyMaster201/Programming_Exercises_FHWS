@@ -1,9 +1,9 @@
 package de.fhws.programming_exercises.other.uebungsaufgabe;
 
 public class Kaffeetasse{
-    private int fuellmenge;
-    private int jahr;
-    private double preis;
+    private final int fuellmenge;
+    private final int jahr;
+    private final double preis;
     public Kaffeetasse next;
 
     private static int gesamtanzahl = 0;

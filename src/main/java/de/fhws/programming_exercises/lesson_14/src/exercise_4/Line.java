@@ -45,9 +45,6 @@ public class Line{
         int start2 = ln2.getStart();
         int end2 = ln2.getEnd();
         // Line 2 is to the right or left of Line 1
-        if (start2 >= end || end2 <= start){
-            return false;
-        }
-        return true;
+        return start2 < end && end2 > start;
     }
 }

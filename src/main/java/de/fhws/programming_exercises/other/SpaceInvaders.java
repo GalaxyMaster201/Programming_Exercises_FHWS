@@ -1,11 +1,11 @@
 package de.fhws.programming_exercises.other;
 
-import java.util.Scanner;
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class SpaceInvaders{
 
-    private static char[] raumschiff = new char[15];
+    private static final char[] raumschiff = new char[15];
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
